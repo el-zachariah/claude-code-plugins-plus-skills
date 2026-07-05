@@ -80,33 +80,33 @@ ccpi update                     # Pull latest versions
 
 ### 📦 Live npm Downloads
 
-Across **425 published packages** in the
+Across **439 published packages** in the 
 [claude-code-plugins](https://www.npmjs.com/~jeremylongshore) namespace. Updated daily by GitHub Actions.
 
-| Window        | All packages | Established (>30d) |
-| ------------- | -----------: | -----------------: |
-| Last 24 hours |          195 |                183 |
-| Last 7 days   |        2,477 |              2,379 |
-| Last 30 days  |       14,130 |             11,983 |
+| Window | All packages | Established (>30d) |
+|--------|-------------:|-------------------:|
+| Last 24 hours | 2,622 | 2,531 |
+| Last 7 days | 9,869 | 9,384 |
+| Last 30 days | 108,408 | 106,167 |
 
 <sub>"Established" excludes packages first published within the last 30 days, so a bulk-publish event doesn't dominate the headline.</sub>
 
 **Top 10 by last 30 days:**
 
-| #   | Package                                                                                                                  | Last 30d |
-| --- | ------------------------------------------------------------------------------------------------------------------------ | -------: |
-| 1   | [`@intentsolutionsio/ccpi`](https://www.npmjs.com/package/@intentsolutionsio/ccpi)                                       |      519 |
-| 2   | [`@intentsolutionsio/engineer-design-diagram`](https://www.npmjs.com/package/@intentsolutionsio/engineer-design-diagram) |      290 |
-| 3   | [`@intentsolutionsio/guidewire-pack`](https://www.npmjs.com/package/@intentsolutionsio/guidewire-pack)                   |      263 |
-| 4   | [`@intentsolutionsio/hubspot-pack`](https://www.npmjs.com/package/@intentsolutionsio/hubspot-pack)                       |      201 |
-| 5   | [`@intentsolutionsio/zero-tech-debt`](https://www.npmjs.com/package/@intentsolutionsio/zero-tech-debt)                   |      177 |
-| 6   | [`@intentsolutionsio/validate-plugin`](https://www.npmjs.com/package/@intentsolutionsio/validate-plugin)                 |      170 |
-| 7   | [`@intentsolutionsio/cli-ux-tester`](https://www.npmjs.com/package/@intentsolutionsio/cli-ux-tester)                     |      164 |
-| 8   | [`@intentsolutionsio/tonone`](https://www.npmjs.com/package/@intentsolutionsio/tonone)                                   |      160 |
-| 9   | [`@intentsolutionsio/claude-workflow-skills`](https://www.npmjs.com/package/@intentsolutionsio/claude-workflow-skills)   |      159 |
-| 10  | [`@intentsolutionsio/contributing-clanker`](https://www.npmjs.com/package/@intentsolutionsio/contributing-clanker)       |      157 |
+| # | Package | Last 30d |
+|---|---------|---------:|
+| 1 | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack) | 1,215 |
+| 2 | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack) | 1,041 |
+| 3 | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) | 918 |
+| 4 | [`@intentsolutionsio/tonone`](https://www.npmjs.com/package/@intentsolutionsio/tonone) | 701 |
+| 5 | [`@intentsolutionsio/general-legal-assistant`](https://www.npmjs.com/package/@intentsolutionsio/general-legal-assistant) | 560 |
+| 6 | [`@intentsolutionsio/obsidian-project-documentation`](https://www.npmjs.com/package/@intentsolutionsio/obsidian-project-documentation) | 557 |
+| 7 | [`@intentsolutionsio/gastown`](https://www.npmjs.com/package/@intentsolutionsio/gastown) | 548 |
+| 8 | [`@intentsolutionsio/over-50s-health`](https://www.npmjs.com/package/@intentsolutionsio/over-50s-health) | 542 |
+| 9 | [`@intentsolutionsio/n8n-workflow-designer`](https://www.npmjs.com/package/@intentsolutionsio/n8n-workflow-designer) | 525 |
+| 10 | [`@intentsolutionsio/pair-programmer`](https://www.npmjs.com/package/@intentsolutionsio/pair-programmer) | 523 |
 
-<sub>Last refreshed 2026-05-28T01:44:16.713Z.</sub>
+<sub>Last refreshed 2026-07-05T01:39:26.730Z.</sub>
 
 <!-- NPM-STATS:END -->
 
